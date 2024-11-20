@@ -1,0 +1,100 @@
+html{
+    background-image: url(IMG/Shape.png);
+    background-repeat: no-repeat;
+    background-size: 35%;
+    background-position: center top 110px;
+    background-attachment: fixed;
+   
+    
+    
+}
+body{
+    background-image:url(IMG/Place\ Your\ Image\ Here\ \(Double\ Click\ to\ Edit\)\ \(2\).png);
+    background-repeat: no-repeat;
+    background-size: 20%;
+    background-position: center top 170%;  
+    background-attachment: fixed ;
+  
+}
+.logo
+{
+    margin-top:18px;
+    margin-left: 18px;
+    width: 200px;
+    cursor:pointer;
+
+}
+.menu
+{
+    margin-left: 1425px;
+    width: 40px;
+    cursor:pointer;
+    margin-top: -30px;
+}
+.menusec
+{
+    margin-left: 28%;
+    margin-top: -20px;
+    font-size: x-large;
+    font-family: sans-serif;
+    cursor: pointer;
+    
+}
+a
+{
+  
+    color: inherit ;
+    text-decoration: none;
+    cursor: pointer;
+    
+
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    font: size 20em;;
+}
+.head1{
+    font-size: 48px;
+    margin-top: 250px;
+    margin-left: 62%;
+}
+.head2{
+    font-size: 48px;
+   margin-top: -30px ;
+    margin-left: 62%;
+}
+.fb
+{
+    margin-left: 30px;
+    margin-top: 5px;
+    width: 50px;
+    height: 50px;
+   margin-bottom:-190px;
+   cursor: pointer;
+
+}
+.ig
+{
+    margin-left: 10px;
+    margin-top: 5px;
+    width: 50px;
+    height: 50px;
+    margin-bottom:-190px;
+    cursor: pointer;
+
+  
+}
+.wp
+{
+    margin-left: 10px;
+    margin-top: 5px;
+    width: 50px;
+    height: 50px;
+    margin-bottom:-190px;
+
+    cursor: pointer;
+
+
+   
+}
